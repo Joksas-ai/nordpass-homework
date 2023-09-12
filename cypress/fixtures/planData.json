@@ -1,0 +1,18 @@
+{
+  "tier": [
+    {
+    "free": "Free",
+    "premium": "Premium",
+    "family": "Family"
+
+  }
+  ],
+  "CheckPlansButtonText": "Check Plans",
+  "getStartedText": "Get Started",
+  "getPremiumPlanText": "Get Premium Plan",
+  "getFamilyPlanText": "Get Family Plan",
+  "personalPlansTitle": "Free And Premium Plans | NordPass",
+  "tryPremiumLink": "/try-premium/",
+  "purchasePremiumPlankLink": "https://checkout.nordpass.com/payment/",
+  "purchaseFamilyPlanLink": "https://checkout.nordpass.com/payment/"
+}
